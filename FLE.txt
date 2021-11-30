@@ -1,11 +1,12 @@
-<<<<<<< HEAD
-sdsasda
+huo
+sdsasds
 asdfas
 
 123
 dsadas\\
 
-890asdasdasd
+890
+asdasdasd
 "oip" 
 "ssad21"  
 =======
