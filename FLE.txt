@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdsasda
 asdfas
 
@@ -7,3 +8,13 @@ dsadas\\
 890asdasdasd
 "oip" 
 "ssad21"  
+=======
+sdsasda
+asdfas
+
+123
+dsadas\\
+
+890
+"oip" 
+>>>>>>> f1a482871343d5524d88a9702d746bb14ee5fd79
