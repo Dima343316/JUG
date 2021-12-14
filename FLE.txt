@@ -24,3 +24,5 @@ FKIU
 HUI
 JIOP
 sas
+git status
+
